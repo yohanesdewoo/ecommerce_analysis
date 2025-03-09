@@ -126,7 +126,7 @@ st.write("For better experience, please use Light Theme on your Streamlit App")
 # Sidebar Dashboard
 with st.sidebar:
 # Menambahkan logo perusahaan
-    st.image("Logo-Olist.png")
+    st.image("dashboard/Logo-Olist.png")
 # Filter Options
     st.subheader("Filters")
     # Filter berdasarkan Tanggal
